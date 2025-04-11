@@ -8,23 +8,22 @@ import Timeline from './timeline.js';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter basename="/Space-Quiz-Event">
       <div className="App">
         <Navbar/>
         <div className="home">
-         <BrowserRouter basename="/Space-Quiz-Event">
-       
+        
+       <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/Space-Quiz-Event/' element={<Home />} />
             <Route path="/Login" element={<Login />} />
             <Route path="/profile" element={<Profile/>} />
             <Route path="/team" element={<Team/>} />
             <Route path="/timeline" element={<Timeline/>} />
-      
-  </BrowserRouter>
+        </Routes>
         </div>
       </div>
-    </Router>
+  </BrowserRouter>
   );
 }
 
