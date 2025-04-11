@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Space-Quiz-Event/static/css/main.b020deff.css",
+    "main.js": "/Space-Quiz-Event/static/js/main.6a30ed60.js",
+    "static/media/rocket.png": "/Space-Quiz-Event/static/media/rocket.80dcb49d69794cabd21f.png",
+    "index.html": "/Space-Quiz-Event/index.html",
+    "main.b020deff.css.map": "/Space-Quiz-Event/static/css/main.b020deff.css.map",
+    "main.6a30ed60.js.map": "/Space-Quiz-Event/static/js/main.6a30ed60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b020deff.css",
+    "static/js/main.6a30ed60.js"
+  ]
+}
