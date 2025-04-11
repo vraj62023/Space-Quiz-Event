@@ -12,6 +12,7 @@ function App() {
       <div className="App">
         <Navbar/>
         <div className="home">
+         <BrowserRouter basename="/Space-Quiz-Event">
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/Space-Quiz-Event/' element={<Home />} />
@@ -20,6 +21,7 @@ function App() {
             <Route path="/team" element={<Team/>} />
             <Route path="/timeline" element={<Timeline/>} />
           </Routes>
+  </BrowserRouter>
         </div>
       </div>
     </Router>
