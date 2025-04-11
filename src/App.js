@@ -13,14 +13,14 @@ function App() {
         <Navbar/>
         <div className="home">
          <BrowserRouter basename="/Space-Quiz-Event">
-          <Routes>
+       
             <Route path='/' element={<Home />} />
             <Route path='/Space-Quiz-Event/' element={<Home />} />
             <Route path="/Login" element={<Login />} />
             <Route path="/profile" element={<Profile/>} />
             <Route path="/team" element={<Team/>} />
             <Route path="/timeline" element={<Timeline/>} />
-          </Routes>
+      
   </BrowserRouter>
         </div>
       </div>
