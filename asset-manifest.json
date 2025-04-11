@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Space-Quiz-Event/static/css/main.b020deff.css",
-    "main.js": "/Space-Quiz-Event/static/js/main.6a30ed60.js",
+    "main.js": "/Space-Quiz-Event/static/js/main.eb1e2e6e.js",
     "static/media/rocket.png": "/Space-Quiz-Event/static/media/rocket.80dcb49d69794cabd21f.png",
     "index.html": "/Space-Quiz-Event/index.html",
     "main.b020deff.css.map": "/Space-Quiz-Event/static/css/main.b020deff.css.map",
-    "main.6a30ed60.js.map": "/Space-Quiz-Event/static/js/main.6a30ed60.js.map"
+    "main.eb1e2e6e.js.map": "/Space-Quiz-Event/static/js/main.eb1e2e6e.js.map"
   },
   "entrypoints": [
     "static/css/main.b020deff.css",
-    "static/js/main.6a30ed60.js"
+    "static/js/main.eb1e2e6e.js"
   ]
 }
